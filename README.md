@@ -1,14 +1,14 @@
 ### 1. Homepage
 
-![Homepage](src/screenshots/1.png)
+![Homepage](src/screenshots/1.PNG)
 
 ### 2. Selecting a Place
 
-![Select Place](src/screenshots/2.png)
+![Select Place](src/screenshots/2.PNG)
 
 ### 3. Delete Confirmation Modal
 
-![Delete Modal](src/screenshots/3.png)
+![Delete Modal](src/screenshots/3.PNG)
 
 🗺️ PlacePicker
 
