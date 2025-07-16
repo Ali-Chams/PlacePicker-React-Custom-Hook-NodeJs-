@@ -1,16 +1,4 @@
-### 1. Homepage
-
-![Homepage](src/screenshots/1.PNG)
-
-### 2. Selecting a Place
-
-![Select Place](src/screenshots/2.PNG)
-
-### 3. Delete Confirmation Modal
-
-![Delete Modal](src/screenshots/3.PNG)
-
-🗺️ PlacePicker
+🗺️ PlacePicker(Screenshots of the app below v)
 
 A simple React app where users can select places they'd like to visit and manage their personalized list. It demonstrates key React concepts like:
 
@@ -36,22 +24,6 @@ A simple React app where users can select places they'd like to visit and manage
 
     🧩 Component Structure
 
-App.jsx
-│
-├── components/
-│   ├── AvailablePlaces.jsx   # Shows list of selectable places
-│   ├── Places.jsx            # Shared layout component for place lists
-│   ├── DeleteConfirmation.jsx
-│   ├── Modal.jsx
-│   └── Error.jsx
-│
-├── hooks/
-│   └── usefetch.js           # Custom data-fetching hook
-│
-├── http.js                   # Fetch functions (backend API calls)
-├── loc.js                    # Helper for sorting by distance
-├── assets/
-│   └── logo.png
 
 🛠️ Getting Started
 1. Clone the Repo
@@ -73,4 +45,15 @@ Make sure your backend is running and serves endpoints like:
 
     GET /available-places
 
+### 1. Homepage
+
+![Homepage](src/screenshots/1.PNG)
+
+### 2. Selecting a Place
+
+![Select Place](src/screenshots/2.PNG)
+
+### 3. Delete Confirmation Modal
+
+![Delete Modal](src/screenshots/3.PNG)
 
